@@ -11,7 +11,7 @@ https://vijsub.github.io/Random_Quote_Machine/
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Javascript</b>
+- <b>JavaScript</b>
 - <b>CSS</b>
 - <b>HTML</b>
 
