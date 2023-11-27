@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-This Python program is a mathematical utility designed to assist users in visualizing equations, solving systems of equations, and analyzing quadratic functions. Its menu-driven interface offers easy access to a range of mathematical tasks, including the display of graphs and tables for user-provided equations, system equation solving, graph plotting with intersection points, and quadratic equation analysis.
+
 
 You can access the website through this link:
 https://vijsub.github.io/Random_Quote_Machine/
@@ -11,14 +11,21 @@ https://vijsub.github.io/Random_Quote_Machine/
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Python</b>
+- <b>Javascript</b>
+- <b>CSS</b>
+- <b>HTML</b>
 
 <h2>Environments Used </h2>
 
 - <b>Windows 11</b>
 - <b>Visual Studio Code</b>
 
+<!--
+
 <h2>Program walk-through:</h2>
+
+
+
 
 <p align="center">
 
@@ -41,3 +48,5 @@ Choose another operation from the menu or enter 5 to exit the program: <br/>
 <img src="pics/pic4.png" height="80%" width="80%" alt="Exiting the program"/>
 <br />
 <br />
+
+-->
