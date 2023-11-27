@@ -3,6 +3,9 @@
 
 <h2>Description</h2>
 
+Uses a mix of HTML, JavaScript, CSS, Bootstrap, SASS, React, Redux, and jQuery. 
+Frontend framework: React
+
 
 You can access the website through this link:
 https://vijsub.github.io/Random_Quote_Machine/
