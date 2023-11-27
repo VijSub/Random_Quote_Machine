@@ -2,6 +2,7 @@
 
 
 <h2>Description</h2>
+A random quote Machine that displays quotes by famous people. Switches between quotes upon clicking the "Next quote" button.
 
 Uses a mix of HTML, JavaScript, CSS, Bootstrap, SASS, React, Redux, and jQuery. 
 Frontend framework: React
